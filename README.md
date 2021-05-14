@@ -1,8 +1,12 @@
 # 479-Project-2
-Project of choice in data science
+Project of choice in data science:
+Implementation of K-NN Classification Algorithm for a specific dataset
+Using C++ and Openmp
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Richard Cruz rcruz99@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+Myles Isas
+
+Raymond Esparza
