@@ -9,4 +9,4 @@ Richard Cruz rcruz99@csu.fullerton.edu
 
 Myles Isas myles.isas@csu.fullerton.edu
 
-Raymond Esparza
+Raymond Esparza rresparza@csu.fullerton.edu
