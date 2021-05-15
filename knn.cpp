@@ -48,7 +48,7 @@ int main(int argc, char**arv){
   double distance[10000];
   double dist;
   //string check[10001], index[10001]; //used for testing
-  int i, k = 7; //fixed k (can be changed)
+  int i, k = 5; //fixed k (can be changed)
   vector<pair <double, double> > neighbor;// vector pair used later to enter distance for each data and its original index in default_Fin vector
 
   //start of parallelization
