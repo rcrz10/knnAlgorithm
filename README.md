@@ -7,6 +7,6 @@ Group members:
 
 Richard Cruz rcruz99@csu.fullerton.edu
 
-Myles Isas
+Myles Isas myles.isas@csu.fullerton.edu
 
 Raymond Esparza
